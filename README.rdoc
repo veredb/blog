@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is a Ruby on Rails project. It contains the ability to create posts and comment on each post. (it contains two models: posts, comments)
+It has the principle of MVC and RESTful design.
+It has a MySQL database.
+It is set up with an Active Record association, which uses the relation ship has_many, belongs_to.
+It is supported by Rspec as TDD
