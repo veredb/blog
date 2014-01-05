@@ -6,6 +6,7 @@ Blog::Application.routes.draw do
   get "welcome/index"
   get "posts/new"
   get "posts/show"
+  match "postale" => "posts#new", via: [:get, :post]
   root to: "welcome#index"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

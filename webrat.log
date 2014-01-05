@@ -1,0 +1,19 @@
+# Logfile created on 2014-01-04 22:07:05 -0600 by logger.rb/31641
+D, [2014-01-04T22:07:05.603371 #22266] DEBUG -- : REQUESTING PAGE: GET /postale with {} and HTTP headers {}
+D, [2014-01-04T22:07:05.661876 #22266] DEBUG -- : REQUESTING PAGE: POST /posts with {"utf8"=>"✓", "post"=>{"title"=>"", "text"=>""}, "commit"=>"Create Post"} and HTTP headers {"HTTP_REFERER"=>"/postale"}
+D, [2014-01-04T22:07:05.669603 #22266] DEBUG -- : REQUESTING PAGE: GET http://www.example.com/posts/102 with {} and HTTP headers {"HTTP_REFERER"=>"/posts"}
+D, [2014-01-04T22:07:05.745188 #22266] DEBUG -- : REQUESTING PAGE: GET /postale with {} and HTTP headers {}
+D, [2014-01-04T22:07:05.752298 #22266] DEBUG -- : REQUESTING PAGE: POST /posts with {"utf8"=>"✓", "post"=>{"title"=>"golf", "text"=>"i love golf"}, "commit"=>"Create Post"} and HTTP headers {"HTTP_REFERER"=>"/postale"}
+D, [2014-01-04T22:07:05.759649 #22266] DEBUG -- : REQUESTING PAGE: GET http://www.example.com/posts/103 with {} and HTTP headers {"HTTP_REFERER"=>"/posts"}
+D, [2014-01-04T22:07:36.833883 #22268] DEBUG -- : REQUESTING PAGE: GET /postale with {} and HTTP headers {}
+D, [2014-01-04T22:07:36.936052 #22268] DEBUG -- : REQUESTING PAGE: POST /posts with {"utf8"=>"✓", "post"=>{"title"=>"golf", "text"=>"i love golf"}, "commit"=>"Create Post"} and HTTP headers {"HTTP_REFERER"=>"/postale"}
+D, [2014-01-04T22:07:36.949957 #22268] DEBUG -- : REQUESTING PAGE: GET http://www.example.com/posts/104 with {} and HTTP headers {"HTTP_REFERER"=>"/posts"}
+D, [2014-01-04T22:07:37.024173 #22268] DEBUG -- : REQUESTING PAGE: GET /postale with {} and HTTP headers {}
+D, [2014-01-04T22:07:37.031127 #22268] DEBUG -- : REQUESTING PAGE: POST /posts with {"utf8"=>"✓", "post"=>{"title"=>"", "text"=>""}, "commit"=>"Create Post"} and HTTP headers {"HTTP_REFERER"=>"/postale"}
+D, [2014-01-04T22:07:37.039217 #22268] DEBUG -- : REQUESTING PAGE: GET http://www.example.com/posts/105 with {} and HTTP headers {"HTTP_REFERER"=>"/posts"}
+D, [2014-01-04T22:11:55.202656 #22272] DEBUG -- : REQUESTING PAGE: GET /postale with {} and HTTP headers {}
+D, [2014-01-04T22:11:55.302637 #22272] DEBUG -- : REQUESTING PAGE: POST /posts with {"utf8"=>"✓", "post"=>{"title"=>"golf", "text"=>"i love golf"}, "commit"=>"Create Post"} and HTTP headers {"HTTP_REFERER"=>"/postale"}
+D, [2014-01-04T22:11:55.317503 #22272] DEBUG -- : REQUESTING PAGE: GET http://www.example.com/posts/110 with {} and HTTP headers {"HTTP_REFERER"=>"/posts"}
+D, [2014-01-04T22:11:55.393364 #22272] DEBUG -- : REQUESTING PAGE: GET /postale with {} and HTTP headers {}
+D, [2014-01-04T22:11:55.400461 #22272] DEBUG -- : REQUESTING PAGE: POST /posts with {"utf8"=>"✓", "post"=>{"title"=>"", "text"=>""}, "commit"=>"Create Post"} and HTTP headers {"HTTP_REFERER"=>"/postale"}
+D, [2014-01-04T22:11:55.407835 #22272] DEBUG -- : REQUESTING PAGE: GET http://www.example.com/posts/111 with {} and HTTP headers {"HTTP_REFERER"=>"/posts"}
